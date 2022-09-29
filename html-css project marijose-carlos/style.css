@@ -1,0 +1,29 @@
+.cuerpo{
+    background: gray;
+    color:white;
+    height: 1500;
+    width:500;
+  }
+  form{
+    background:black;
+    width: 400px;
+    height:1500;
+  }
+  .etiquetas{
+    position:absolute;
+    width:350px;
+    height:200;
+    position: center;
+    padding:0px;
+  
+  }
+  label{
+    padding:5px;
+    margin:auto;
+  }
+  #textarea{
+    height:150px;
+  }
+  p{
+  padding:2px;
+  }
